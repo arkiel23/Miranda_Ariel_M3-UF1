@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ariel\\Desktop\\Programacion\\Ejercicios condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91DBB746-CCC3-47D2-8D53-2A5B57FF2978}|Ejercicios condicionales\\Ejercicios condicionales.vcxproj|C:\\Users\\Ariel\\Desktop\\Programacion\\Ejercicios condicionales\\Ejercicios condicionales\\Ejercicios condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91DBB746-CCC3-47D2-8D53-2A5B57FF2978}|Ejercicios condicionales\\Ejercicios condicionales.vcxproj|solutionrelative:Ejercicios condicionales\\Ejercicios condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicios condicionales.cpp",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\Programacion\\Ejercicios condicionales\\Ejercicios condicionales\\Ejercicios condicionales.cpp",
+              "RelativeDocumentMoniker": "Ejercicios condicionales\\Ejercicios condicionales.cpp",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\Programacion\\Ejercicios condicionales\\Ejercicios condicionales\\Ejercicios condicionales.cpp*",
+              "RelativeToolTip": "Ejercicios condicionales\\Ejercicios condicionales.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T08:22:25.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
