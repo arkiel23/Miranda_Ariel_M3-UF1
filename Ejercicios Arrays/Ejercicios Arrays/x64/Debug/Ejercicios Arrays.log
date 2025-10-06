@@ -1,0 +1,4 @@
+﻿  Ejercicios Arrays.cpp
+C:\Users\Ariel\Desktop\Programacion\Ejercicios Arrays\Ejercicios Arrays\Ejercicios Arrays.cpp(59,10): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'int *'
+C:\Users\Ariel\Desktop\Programacion\Ejercicios Arrays\Ejercicios Arrays\Ejercicios Arrays.cpp(59,10): warning C4313: 'printf': '%d' en la cadena de formato entra en conflicto con el argumento 1 de tipo 'int *'
+  Ejercicios Arrays.vcxproj -> C:\Users\Ariel\Desktop\Programacion\Ejercicios Arrays\x64\Debug\Ejercicios Arrays.exe
