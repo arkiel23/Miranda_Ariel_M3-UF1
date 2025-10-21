@@ -1,0 +1,4 @@
+﻿  Miranda_Ariel strings.cpp
+C:\Users\Ariel\Desktop\Miranda_Ariel_M3-UF1\Miranda_Ariel strings\Miranda_Ariel strings\Miranda_Ariel strings.cpp(13,19): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Ariel\Desktop\Miranda_Ariel_M3-UF1\Miranda_Ariel strings\Miranda_Ariel strings\Miranda_Ariel strings.cpp(8,27): warning C4101: 'i': variable local sin referencia
+  Miranda_Ariel strings.vcxproj -> C:\Users\Ariel\Desktop\Miranda_Ariel_M3-UF1\Miranda_Ariel strings\x64\Debug\Miranda_Ariel strings.exe

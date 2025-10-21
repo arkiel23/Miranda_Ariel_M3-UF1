@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ariel\\Desktop\\Miranda_Ariel_M3-UF1\\Miranda_Ariel strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379A78D0-FCAE-439C-9A5E-7CDF7278779A}|Miranda_Ariel strings\\Miranda_Ariel strings.vcxproj|C:\\Users\\Ariel\\Desktop\\Miranda_Ariel_M3-UF1\\Miranda_Ariel strings\\Miranda_Ariel strings\\Miranda_Ariel strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{379A78D0-FCAE-439C-9A5E-7CDF7278779A}|Miranda_Ariel strings\\Miranda_Ariel strings.vcxproj|solutionrelative:Miranda_Ariel strings\\Miranda_Ariel strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Miranda_Ariel strings.cpp",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\Miranda_Ariel_M3-UF1\\Miranda_Ariel strings\\Miranda_Ariel strings\\Miranda_Ariel strings.cpp",
+              "RelativeDocumentMoniker": "Miranda_Ariel strings\\Miranda_Ariel strings.cpp",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\Miranda_Ariel_M3-UF1\\Miranda_Ariel strings\\Miranda_Ariel strings\\Miranda_Ariel strings.cpp",
+              "RelativeToolTip": "Miranda_Ariel strings\\Miranda_Ariel strings.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T13:06:18.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
