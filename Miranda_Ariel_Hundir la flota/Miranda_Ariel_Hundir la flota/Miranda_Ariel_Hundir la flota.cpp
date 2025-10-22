@@ -171,5 +171,4 @@ int main() {
     printf("\nFELICIDADES!\n");
     printf("Has hundido todas las naves en %d intentos!\n", intentos);
 
-    return 0;
 }
