@@ -127,7 +127,7 @@ int Par(int n)
 	}
 	else
 	{
-		return 2;
+		return 0;
 	}
 
 	return 0;
