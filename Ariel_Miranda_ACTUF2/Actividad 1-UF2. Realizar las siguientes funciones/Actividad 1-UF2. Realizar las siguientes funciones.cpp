@@ -12,7 +12,7 @@ int Multiplicacion(int n1, int n2);
 float Division(float n1, float n2);
 int Negativo(int n);
 void Saludo();
-void Media3(float nota1 = 5.43, float nota2 = 6.89, float nota3 = 10);
+void Media3(float nota1, float nota2, float nota3);
 float Media2(float nota1,float nota2);
 int Par(int n);
 int main()
@@ -28,19 +28,36 @@ int main()
 
 void Ejercicio1()
 {
-	int resultado=Par(5);
+	int numero;
+	printf("Ingresa un numero\n");
+	scanf_s("%d", &numero);
+	int resultado = Par(numero);
 	printf("El resultado es %d", resultado);
 }
 
 void Ejercicio2()
 {
-	float media=Media2(3.66,9.7);
+	float x, y;
+	printf("Introduce un numero\n");
+	scanf_s("%f", &x);
+	printf("Introduce otro numero\n");
+	scanf_s("%f", &y);
+
+	float media=Media2(x,y);
 	printf("La media de las 2 notas es %.2f", media);
 }
 
 void Ejercicio3()
 {
-	Media3();
+	float x, y, z;
+	printf("Introduce un numero\n");
+	scanf_s("%f", &x);
+	printf("Introduce otro numero\n");
+	scanf_s("%f", &y);
+	printf("Introduce otro numero\n");
+	scanf_s("%f", &z);
+	
+	Media3(x,y,z);
 }
 
 void Ejercicio4()
@@ -50,17 +67,26 @@ void Ejercicio4()
 
 void Ejercicio5()
 {
-	int resultado=Negativo(5);
+	int numero;
+	printf("Introduce un numero\n");
+	scanf_s("%d", &numero);
+	int resultado=Negativo(numero);
 	printf("El resultado es %d", resultado);
 }
 
-void Ejercicio6()
+void Ejercicio6() 
 {
-	int suma = Suma(23, 4);
-	int resta = Resta(23, 4);
-	int multiplicacion = Multiplicacion(23, 4);
-	float division = Division(12, 0);
-	printf("El resultado de las operaciones son Suma:%d\n Resta:%d\n Multiplicacion %d \n Division %.2f", suma, resta, multiplicacion, division);
+	int n1, n2;
+	printf("Introduce un numero\n");
+	scanf_s("%d", &n1);
+	printf("Introduce otro numero\n");
+	scanf_s("%d", &n2);
+	
+	printf("El resultado de la suma: %d\n", Suma(n1, n2));
+	printf("El resultado de la resta: %d\n", Resta(n1, n2));
+	printf("El resultado de la multi %d\n", Multiplicacion(n1, n2));
+	if (n2 == 0) printf("Error");
+	else printf("Division es %.2f", Division(n1, n2));
 }
 
 int Suma(int n1, int n2)
@@ -80,14 +106,7 @@ int Multiplicacion(int n1, int n2)
 
 float Division(float n1, float n2)
 {
-	if (n2==0)
-	{
-		printf("Error");
-	}
-	else
-	{
-		return n1 / n2;
-	}
+	return n1 / n2;
 }
 
 int Negativo(int n)
