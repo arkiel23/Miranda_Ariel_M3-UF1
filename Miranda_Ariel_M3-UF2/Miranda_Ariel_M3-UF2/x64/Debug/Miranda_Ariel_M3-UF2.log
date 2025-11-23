@@ -1,0 +1,6 @@
+﻿  Miranda_Ariel_M3-UF2.cpp
+C:\Users\Ariel\Desktop\Programación\Miranda_Ariel_M3-UF1\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2.cpp(47,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Ariel\Desktop\Programación\Miranda_Ariel_M3-UF1\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2.cpp(50,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Ariel\Desktop\Programación\Miranda_Ariel_M3-UF1\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2.cpp(53,16): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Ariel\Desktop\Programación\Miranda_Ariel_M3-UF1\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2\Miranda_Ariel_M3-UF2.cpp(65,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Miranda_Ariel_M3-UF2.vcxproj -> C:\Users\Ariel\Desktop\Programación\Miranda_Ariel_M3-UF1\Miranda_Ariel_M3-UF2\x64\Debug\Miranda_Ariel_M3-UF2.exe
