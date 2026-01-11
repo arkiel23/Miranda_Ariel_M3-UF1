@@ -1,0 +1,3 @@
+﻿  Actividad2_uf3_ArielMiranda.cpp
+C:\Users\Ariel\source\repos\Actividad2_uf3_ArielMiranda\Actividad2_uf3_ArielMiranda\Actividad2_uf3_ArielMiranda.cpp(31,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Actividad2_uf3_ArielMiranda.vcxproj -> C:\Users\Ariel\source\repos\Actividad2_uf3_ArielMiranda\x64\Debug\Actividad2_uf3_ArielMiranda.exe
